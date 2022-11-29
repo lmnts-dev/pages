@@ -38,6 +38,7 @@ html{
   background-color: #CD753C;
   color: #F4EBDA;
   text-transform: uppercase;
+  margin-left: 9px;
 }
 
 #vipcopyright{
@@ -54,5 +55,9 @@ form{
 
 select, input{
   font-size: 18px;
-  font-family: 'roc-grotesk'!important;
+  font-family: "noort", Sans-serif;
+}
+
+select{
+  margin-right: 20px;
 }
