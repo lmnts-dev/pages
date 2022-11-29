@@ -81,6 +81,7 @@ select{
 .finder_num{
   color: #CD753C;
   font-size: 40px;
+  border: none!important;
 }
 
 .finder_num span{
@@ -103,6 +104,10 @@ select{
   border: none;
 }
 
+.finder_address {
+  border: none!important;
+}
+
 .finder_address a{
   color: #F4EBDA;
   font-size: 15px;
@@ -114,6 +119,10 @@ select{
 
 .finder_phone{
   display: none;
+}
+
+.finder_dba{
+  border: none!important;
 }
 
 .finder_dba_text{
@@ -129,6 +138,11 @@ select{
   color: #F4EBDA;
   opacity: 50%;
   padding: 10px;
+  border: none!important;
+}
+
+.finder_brands{
+  border: none!important;
 }
 
 .finder_brand_list li{
@@ -151,7 +165,6 @@ select{
 }
 
 .finder_location{
-  display: flex;
+  display: inline-flex;
  flex-direction: column;
-}
 }
