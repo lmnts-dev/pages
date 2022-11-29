@@ -27,3 +27,7 @@
  #finder_form{
   border: none;
  }
+
+#vipcopyright{
+  display: none!important
+}
