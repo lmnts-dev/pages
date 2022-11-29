@@ -34,7 +34,8 @@ html{
  }
 
 #submitBtn{
-  padding: 8px 32px;
+  padding: 8px 32px!important;
+  font-size: 24px;
   background-color: #CD753C;
   color: #F4EBDA;
   text-transform: uppercase;
@@ -91,6 +92,7 @@ select{
   color: #F2E9D8!important;
   border: none;
   text-align: center;
+  min-width: 100px;
 }
 
 #finder_table thead{
