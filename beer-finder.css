@@ -82,6 +82,10 @@ select{
   font-size: 40px;
 }
 
+.finder_num span{
+  margin-right: 25px;
+}
+
 #finder_zip{
   background-color: #112213!important;
   color: #F2E9D8!important;
@@ -134,7 +138,7 @@ select{
 
 .finder_brand_list li{
   background: #CD753C;
-  font-size: 16px;
+  font-size: 16px!important;
   padding: 2px;
-  color: #F4EBDA;
+  color: #F4EBDA!important;
 }
