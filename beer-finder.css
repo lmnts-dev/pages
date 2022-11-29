@@ -9,7 +9,7 @@ html{
 
  #finder{
   display: flex!important;
-  justify-content: center!important;
+  justify-content: space-between!important;
  }
 
  #finder select{
@@ -45,5 +45,14 @@ html{
 }
 
 legend{
-  diplay: none;
+  display: none;
+}
+
+form{
+  font-size: 0;
+}
+
+select, input{
+  font-size: 18px;
+  font-family: 'roc-grotesk'!important;
 }
