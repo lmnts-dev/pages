@@ -1,1 +1,77 @@
+html{
+  background-color: #021504!important;
+  color: #F4EBDA!important;
+}
 
+#finder_body{
+  background-color: #021504!important;
+ }
+
+ #finder{
+  display: flex!important;
+  justify-content: space-between!important;
+ }
+
+ #finder select{
+  background-color: #112213!important;
+  color: #F2E9D8!important;
+  border-radius: 0!important;
+  border-color: #424D43!important;
+  height: 40px!important;
+ }
+
+ #storeType, #finder_BFBRCD{
+  width: 400px;
+ }
+
+ #finder_body .submitBtn{
+  background-color: #CD753C!important;
+  color: #F4EBDA!important;
+ }
+
+ #finder_form{
+  border: none;
+ }
+
+#submitBtn{
+  padding: 8px 32px;
+  background-color: #CD753C;
+  color: #F4EBDA;
+  text-transform: uppercase;
+  margin-left: 9px;
+}
+
+#vipcopyright{
+  display: none!important
+}
+
+legend{
+  display: none;
+}
+
+form{
+  font-size: 0;
+}
+
+select, input{
+  font-size: 18px;
+  font-family: "noort", Sans-serif;
+}
+
+select{
+  margin-right: 20px;
+}
+
+#finder_results{
+  display: flex;
+  border: none;
+}
+
+#map_canvas{
+  flex: 2;
+  margin-right: 30px;
+}
+
+#panel_search_results{
+  flex: 1;
+}
