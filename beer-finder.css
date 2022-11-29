@@ -142,7 +142,8 @@ select{
 }
 
 .finder_brands{
-  border: none!important;
+  border: none!important;    
+  width: 100%!important;
 }
 
 .finder_brand_list li{
