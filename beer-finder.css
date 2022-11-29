@@ -80,3 +80,10 @@ select{
   color: #CD753C;
   font-size: 40px;
 }
+
+#finder_zip{
+  background-color: #112213!important;
+  color: #F2E9D8!important;
+  border: none;
+  text-align: center;
+}
