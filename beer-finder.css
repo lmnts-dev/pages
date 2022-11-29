@@ -33,6 +33,13 @@ html{
   border: none;
  }
 
+#submitBtn{
+  padding: 8px 32px;
+  background-color: #CD753C;
+  color: #F4EBDA;
+  text-transform: uppercase;
+}
+
 #vipcopyright{
   display: none!important
 }
