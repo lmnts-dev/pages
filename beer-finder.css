@@ -122,4 +122,16 @@ select{
   background: transparent;
   color: #F4EBDA;
   opacity: 50%;
+  padding: 10px;
+}
+
+.finder_brand_list{
+  list-style: none;
+}
+
+.finder_brand_list li{
+  background: #CD753C;
+  font-size: 16px;
+  padding: 2px;
+  color: #F4EBDA;
 }
