@@ -109,3 +109,11 @@ select{
 .finder_phone{
   display: none;
 }
+
+.finder_dba_text{
+  text-transform: lowercase!important;
+}
+
+.finder_dba_textfirst-letter{
+  text-transform: capitalize!important;
+}
