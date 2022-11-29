@@ -149,3 +149,9 @@ select{
   color: #F4EBDA!important;
   font-size: 16px;
 }
+
+.finder_location{
+  display: flex;
+ flex-direction: column;
+}
+}
