@@ -9,7 +9,7 @@ html{
 
  #finder{
   display: flex!important;
-  justify-content: space-between!important;
+  justify-content: center!important;
  }
 
  #finder select{
