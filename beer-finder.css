@@ -114,19 +114,19 @@ select{
   text-transform: lowercase!important;
 }
 
-.finder_dba_textfirst-letter{
+.finder_dba_text::first-letter{
   text-transform: capitalize!important;
 }
 
 .finder_miles{
-  background: transparent;
+  background: transparent!important;
   color: #F4EBDA;
   opacity: 50%;
   padding: 10px;
 }
 
 .finder_brand_list li{
-  list-style: none;
+  list-style-type: none!important;
   font-size: 16px;
   color: #F4EBDA;
   margin-bottom: 8px;
