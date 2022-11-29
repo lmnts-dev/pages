@@ -117,3 +117,9 @@ select{
 .finder_dba_textfirst-letter{
   text-transform: capitalize!important;
 }
+
+.finder-miles{
+  background: transparent;
+  color: #F4EBDA;
+  opacity: 50%;
+}
