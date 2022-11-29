@@ -61,3 +61,17 @@ select, input{
 select{
   margin-right: 20px;
 }
+
+#finder_results{
+  display: flex;
+  border: none;
+}
+
+#map_canvas{
+  flex: 2;
+  margin-right: 30px;
+}
+
+#panel_search_results{
+  flex: 1;
+}
