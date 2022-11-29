@@ -43,3 +43,7 @@ html{
 #vipcopyright{
   display: none!important
 }
+
+legend{
+  diplay: none;
+}
