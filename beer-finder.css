@@ -93,6 +93,10 @@ select{
   display:none;
 }
 
+#finder_table{
+  border: none;
+}
+
 .finder_address a{
   color: #F4EBDA;
   font-size: 15px;
