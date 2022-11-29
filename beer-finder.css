@@ -150,6 +150,7 @@ select{
   font-size: 16px;
   color: #F4EBDA;
   margin-bottom: 8px;
+  margin-left: 0;
 }
 
 .finder_brand_list li{
@@ -167,4 +168,5 @@ select{
 .finder_location{
   display: inline-flex;
  flex-direction: column;
+  width: 100%;
 }
