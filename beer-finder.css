@@ -151,6 +151,7 @@ select{
   color: #F4EBDA;
   margin-bottom: 8px;
   margin-left: 0;
+  text-transform: uppercase;
 }
 
 .finder_brand_list li{
