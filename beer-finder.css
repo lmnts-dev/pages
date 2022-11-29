@@ -75,3 +75,8 @@ select{
 #panel_search_results{
   flex: 1;
 }
+
+.finder_num{
+  color: #CD753C;
+  font-size: 40px;
+}
