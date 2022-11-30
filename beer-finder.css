@@ -106,6 +106,7 @@ select{
 
 .finder_address {
   border: none!important;
+  margin-bottom: 10px;
 }
 
 .finder_address a{
@@ -123,6 +124,7 @@ select{
 
 .finder_dba{
   border: none!important;
+  margin-bottom: 10px;
 }
 
 .finder_dba_text{
@@ -139,6 +141,7 @@ select{
   opacity: 50%;
   padding: 10px;
   border: none!important;
+  margin-bottom: 10px;
 }
 
 .finder_brands{
