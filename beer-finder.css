@@ -127,12 +127,7 @@ select{
 
 .finder_dba{
   border: none!important;
-  margin-bottom: 10px;
   grid-column: 2/-1;
-}
-
-.finder_dba_text{
-  text-transform: lowercase!important;
 }
 
 .finder_dba_text::first-letter{
