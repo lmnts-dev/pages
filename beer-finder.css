@@ -152,9 +152,9 @@ select{
 .finder_brand_list li{
   list-style-type: none!important;
   font-size: 16px;
-  color: #F4EBDA;
+  color: #F4EBDA!important;
   margin-bottom: 8px;
-  margin-left: 0;
+  margin-left: 0!important;
   text-transform: uppercase;
   font-size: 16px!important;
   padding: 5px 10px;
