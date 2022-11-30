@@ -86,7 +86,7 @@ select{
 }
 
 .finder_num span{
-  margin-right: 25px;
+  font-family: "noort", Sans-serif!important;  
 }
 
 #finder_zip{
