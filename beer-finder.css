@@ -114,11 +114,13 @@ select{
 .finder_address a{
   color: #F4EBDA;
   font-size: 15px;
+  font-family: "roc-grotesk", Sans-serif!important;
 }
 
 .finder_dba_text{
   font-size: 18px;
   line-height: 26px;
+  font-family: "roc-grotesk", Sans-serif!important;
 }
 
 .finder_phone{
@@ -128,10 +130,6 @@ select{
 .finder_dba{
   border: none!important;
   grid-column: 2/-1;
-}
-
-.finder_dba_text::first-letter{
-  text-transform: capitalize!important;
 }
 
 .finder_miles{
@@ -154,6 +152,7 @@ select{
 .finder_brand_list li{
   list-style-type: none!important;
   font-size: 16px;
+  font-family: "roc-grotesk", Sans-serif!important;
   color: #F4EBDA!important;
   margin-bottom: 8px;
   margin-left: 0!important;
