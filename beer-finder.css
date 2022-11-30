@@ -82,6 +82,7 @@ select{
   color: #CD753C;
   font-size: 40px;
   border: none!important;
+  grid-column: 1 / 2;
 }
 
 .finder_num span{
@@ -107,6 +108,7 @@ select{
 .finder_address {
   border: none!important;
   margin-bottom: 10px;
+  grid-column: 2/-1;
 }
 
 .finder_address a{
@@ -125,6 +127,7 @@ select{
 .finder_dba{
   border: none!important;
   margin-bottom: 10px;
+  grid-column: 2/-1;
 }
 
 .finder_dba_text{
@@ -142,13 +145,14 @@ select{
   padding: 10px;
   border: none!important;
   margin-bottom: 10px;
+  grid-column: 2/-1;
 }
 
 .finder_brands{
   border: none!important;    
   width: 100%!important;
   display: flex;
-  justify-content: center;
+  grid-column: 2/-1;
 }
 
 .finder_brand_list li{
@@ -176,8 +180,7 @@ select{
 }
 
 .finder_location{
-  display: inline-flex;
-  flex-direction: column;
-  width: 100%;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  margin-bottom: 38px;
 }
