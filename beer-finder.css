@@ -192,6 +192,11 @@ select{
      display:block!important;
    }
    
+   
+  .finder_dynamic_menu{
+    margin-left: 0;
+  }
+   
    select, input{
     width: 80%!important;
     margin-right: 0!important;
