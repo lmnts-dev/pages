@@ -179,3 +179,17 @@ select{
   margin-bottom: 38px;
   column-gap: 25px;
 }
+
+
+/*MEDIA QUERIES*/
+ @media (max-width: 1025px){
+   #finder{
+     flex-direction: column;
+     align-items: center;
+   }
+   
+   select, input{
+    width: 80%;
+    margin-right: 0;
+   }
+}
