@@ -196,4 +196,8 @@ select{
     width: 80%;
     margin-right: 0;
    }
+   
+   #submitBtn{
+     margin-top:10px;
+   }
 }
