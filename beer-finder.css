@@ -192,6 +192,10 @@ select{
      display:block!important;
    }
    
+   #finder_zip{
+    padding: 0;
+    height: 40px!important;
+   }
    
   .finder_dynamic_menu{
     margin-left: 0;
@@ -204,5 +208,6 @@ select{
    
    #submitBtn{
      margin-top:10px!important;
+     border-radius: 0!important;
    }
 }
